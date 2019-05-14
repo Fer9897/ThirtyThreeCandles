@@ -1,0 +1,2 @@
+C:\Users\PCG04\Documents\Repositories\T3Candles\T3Candles\Intermediate\Source\T3Candles.Build.cs
+C:\Users\PCG04\Documents\Repositories\T3Candles\T3Candles\Intermediate\Source\T3Candles.Target.cs
